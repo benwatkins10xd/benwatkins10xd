@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @benwatkins10xd
-- 💻 I'm currently working as a graduate software engineer at Vodafone
-- 🌱 I’m currently learning Python, JavaScript and React!
+- 💻 I'm a devops and software engineer at Vodafone
+- 🚀 Go, Python and JavaScript
